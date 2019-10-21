@@ -22,4 +22,4 @@ run few clases on JS programming using online tutors and/or offline materials - 
 
 <b> Q: But how to select candidates? Where to find them with suitable initial background? </b>
 
-Use Detigrenn players database.
+Use [Detigrenn](https://github.com/w2wh/doc/blob/master/README.md) players database.
