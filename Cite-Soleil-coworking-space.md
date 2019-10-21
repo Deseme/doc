@@ -5,9 +5,11 @@ Co-working space in Cite Soleil - questions and answers
 
 The idea is:
 - rent small building in Cite Soleil
-- install solar panels, small wind turbines on the roof and connect batteries creating small electrical network
+- install generators (solar panels, small wind turbines) on the roof and connect them to batteries 
+creating small electrical network
 - create few offices in the building where office equipment is fed by local electricity net
 - setup satellite or some other internet connection
+- hire and train security personell
 
 This is co-working space (CWS)! It can be set with relatively small expenses in Cite Soleil.
 
