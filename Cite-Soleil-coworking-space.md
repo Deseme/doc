@@ -15,7 +15,7 @@ This is co-working space (CWS)! It can be set with relatively small expenses in 
 
 Now the manager of the CWS will select promising candidates to start looking for work via internet.
 
-<b>Q: How to find candidates with neccessary skill? </b>
+<b>Q: How to find candidates with neccessary skills? </b>
 
 In the case of Cite Soleil it will be neccessary to use co-working space as trainging center. E.g. 
 run few clases on JS programming using online tutors and/or offline materials - books.
